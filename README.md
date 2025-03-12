@@ -3,8 +3,10 @@
 
 - 🔭 I’m currently working on college projects . **That'll reflect soon on profile**
 
+- **I think I'm Confident Enough.**
+
 - 📫 How to reach me **dc9818@srmist.edu.in**
-- - **I think I'm Confident Enough.**
+
 
 
 
