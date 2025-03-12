@@ -1,4 +1,4 @@
-<h1 align="center">Hi This is Daksh Choudhary</h1>
+<h1 align="center">Hi, This is Daksh Choudhary</h1>
 <h3 align="center">Always up for Learning Skills.</h3>
 
 - 🔭 I’m currently working on college projects . **That'll reflect soon on profile**
