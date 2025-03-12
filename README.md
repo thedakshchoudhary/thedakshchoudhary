@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **dc9818@srmist.edu.in**
 
+- ⚡ Fun fact **I think I'm Confident Enough.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thedakshchoudhary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thedakshchoudhary" height="30" width="40" /></a>
