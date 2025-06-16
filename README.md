@@ -5,7 +5,6 @@
 
 - **I think I'm Confident Enough.**
 
-- How to reach me **dc9818@srmist.edu.in**
 
 
 
