@@ -1,7 +1,11 @@
 <h1 align="center">Hi , This is Daksh Choudhary</h1>
-<h3 align="center">Web Developer | AI & ML Enthusiast | Passionate about building clean, smart, responsive, and impactful digital solutions.</h3>
+<h3 align="center">  Developer | AI & ML Enthusiast</h3>
 
-- I’m currently learning **Currently learning Machine Learning fundamentals and Generative AI. Along with some full stack development.**
+- I’m currently learning **Machine Learning fundamentals and Generative AI. Along with some full stack development.**
+
+- All of my projects will be updated **here.**
+
+- Ask me about **clean, smart, responsive, and impactful digital solutions.**
 
 - Passionate about **connecting technology, creativity, and intelligent systems.**
 
