@@ -1,6 +1,10 @@
 <h1 align="center">Hi , This is Daksh Choudhary</h1>
 <h3 align="center">Web Developer | AI & ML Enthusiast | Passionate about building clean, smart, responsive, and impactful digital solutions.</h3>
 
+- I’m currently learning **Currently learning Machine Learning fundamentals and Generative AI. Along with some full stack development.**
+
+- Passionate about **connecting technology, creativity, and intelligent systems.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/choudharydaksh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="choudharydaksh" height="30" width="40" /></a>
